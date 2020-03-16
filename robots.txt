@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahziatolaf.intellectualmercenary.com/sitemap.xml
